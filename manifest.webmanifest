@@ -1,0 +1,29 @@
+{
+    "name": "NaiyanNoor",
+    "short_name": "NaiyanNoor",
+    "description": "naiyannoor portfolio",
+    "icons": [
+      {
+        "src": "./icons/favicon/favicon.ico",
+        "sizes": "64x64 24x24",
+        "type": "icons/x-icon",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "./icons/favicon/android-chrome-192x192.png",
+        "type": "icons/png",
+        "sizes": "192x192",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "./icons/favicon/android-chrome-512x512.png",
+        "type": "icons/png",
+        "sizes": "512x512",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#000000"
+  }
